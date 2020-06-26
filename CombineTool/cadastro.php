@@ -7,6 +7,7 @@ session_start();
 <head>
 	<title>CombineTool</title>
 	<link rel="stylesheet" href="css/cadastro.css">
+	<link rel="icon" href="img/icon.png">
 </head>
 <body>
 	<div class="principal">
