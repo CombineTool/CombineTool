@@ -30,7 +30,6 @@ session_start();
 		<div class="menu">
 			<a href="#">Login</a>
 			<a href="cadastro.php">Cadastro</a>
-			<a href="#">Perfil</a>
 			<a href="#">Sobre</a>
 		</div>
 	</nav>

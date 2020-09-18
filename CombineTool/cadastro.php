@@ -32,7 +32,6 @@ session_start();
 		<div class="menu">
 			<a href="index.php">Login</a>
 			<a href="#">Cadastro</a>
-			<a href="#">Perfil</a>
 			<a href="#">Sobre</a>
 		</div>
 	</nav>
